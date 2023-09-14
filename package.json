@@ -1,0 +1,15 @@
+{
+  "name": "my-project",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "bootstrap-vue": "^2.23.1",
+    "gridsome": "^0.7.0",
+    "vee-validate": "^4.11.6",
+    "vuelidate": "^0.7.7"
+  }
+}
